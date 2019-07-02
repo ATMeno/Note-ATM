@@ -9,7 +9,8 @@
 4.集合
 
 5.多线程
-
+Executors与ThreadPoolExecutor（阿里发布的 Java开发手册中强制线程池不允许使用 Executors 去创建）		https://blog.csdn.net/qq_33300570/article/details/78394188
+Callable、Future和FutureTask	https://www.cnblogs.com/dolphin0520/p/3949310.html
 6.JVM 内存分布
 	入门	https://www.jianshu.com/p/904b15a8281f?tdsourcetag=s_pctim_aiomsg
 
@@ -23,8 +24,11 @@
 9.数据库
 
 10.设计模式
+	动态代理：
+	适配器：https://blog.csdn.net/u011452888/article/details/79845583
 
 11.数据结构
 
 12.框架
+	Spinrg:
 
